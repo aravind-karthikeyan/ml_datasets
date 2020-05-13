@@ -1,0 +1,223 @@
+,COUNTRY,CODE,Label
+0,Afghanistan,AFG,3
+1,Albania,ALB,2
+2,Algeria,DZA,3
+3,American Samoa,ASM,0
+4,Andorra,AND,3
+5,Angola,AGO,1
+6,Anguilla,AIA,0
+7,Antigua and Barbuda,ATG,1
+8,Argentina,ARG,3
+9,Armenia,ARM,3
+10,Aruba,ABW,0
+11,Australia,AUS,3
+12,Austria,AUT,3
+13,Azerbaijan,AZE,3
+14,"Bahamas, The",BHM,0
+15,Bahrain,BHR,2
+16,Bangladesh,BGD,3
+17,Barbados,BRB,2
+18,Belarus,BLR,3
+19,Belgium,BEL,4
+20,Belize,BLZ,1
+21,Benin,BEN,2
+22,Bermuda,BMU,0
+23,Bhutan,BTN,1
+24,Bolivia,BOL,3
+25,Bosnia and Herzegovina,BIH,3
+26,Botswana,BWA,1
+27,Brazil,BRA,4
+28,British Virgin Islands,VGB,0
+29,Brunei,BRN,1
+30,Bulgaria,BGR,3
+31,Burkina Faso,BFA,2
+32,Burma,MMR,2
+33,Burundi,BDI,1
+34,Cabo Verde,CPV,1
+35,Cambodia,KHM,1
+36,Cameroon,CMR,3
+37,Canada,CAN,4
+38,Cayman Islands,CYM,0
+39,Central African Republic,CAF,1
+40,Chad,TCD,5
+41,Chile,CHL,3
+42,China,CHN,2
+43,Colombia,COL,3
+44,Comoros,COM,1
+45,"Congo, Democratic Republic of the",COD,2
+46,"Congo, Republic of the",COG,2
+47,Cook Islands,COK,0
+48,Costa Rica,CRI,2
+49,Cote d'Ivoire,CIV,3
+50,Croatia,HRV,3
+51,Cuba,CUB,3
+52,Curacao,CUW,0
+53,Cyprus,CYP,2
+54,Czech Republic,CZE,0
+55,Denmark,DNK,3
+56,Djibouti,DJI,1
+57,Dominica,DMA,1
+58,Dominican Republic,DOM,3
+59,Ecuador,ECU,4
+60,Egypt,EGY,3
+61,El Salvador,SLV,2
+62,Equatorial Guinea,GNQ,3
+63,Eritrea,ERI,1
+64,Estonia,EST,3
+65,Ethiopia,ETH,1
+66,Falkland Islands (Islas Malvinas),FLK,0
+67,Faroe Islands,FRO,0
+68,Fiji,FJI,1
+69,Finland,FIN,3
+70,France,FRA,4
+71,French Polynesia,PYF,0
+72,Gabon,GAB,2
+73,"Gambia, The",GMB,0
+74,Georgia,GEO,2
+75,Germany,DEU,4
+76,Ghana,GHA,2
+77,Gibraltar,GIB,0
+78,Greece,GRC,3
+79,Greenland,GRL,0
+80,Grenada,GRD,1
+81,Guam,GUM,0
+82,Guatemala,GTM,3
+83,Guernsey,GGY,0
+84,Guinea-Bissau,GNB,3
+85,Guinea,GIN,3
+86,Guyana,GUY,2
+87,Haiti,HTI,3
+88,Honduras,HND,3
+89,Hong Kong,HKG,0
+90,Hungary,HUN,3
+91,Iceland,ISL,2
+92,India,IND,4
+93,Indonesia,IDN,3
+94,Iran,IRN,3
+95,Iraq,IRQ,2
+96,Ireland,IRL,4
+97,Isle of Man,IMN,0
+98,Israel,ISR,3
+99,Italy,ITA,3
+100,Jamaica,JAM,2
+101,Japan,JPN,3
+102,Jersey,JEY,0
+103,Jordan,JOR,2
+104,Kazakhstan,KAZ,3
+105,Kenya,KEN,3
+106,Kiribati,KIR,0
+107,"Korea, North",PRK,0
+108,"Korea, South",KOR,2
+109,Kosovo,KSV,3
+110,Kuwait,KWT,4
+111,Kyrgyzstan,KGZ,2
+112,Laos,LAO,1
+113,Latvia,LVA,3
+114,Lebanon,LBN,2
+115,Lesotho,LSO,0
+116,Liberia,LBR,2
+117,Libya,LBY,2
+118,Liechtenstein,LIE,1
+119,Lithuania,LTU,3
+120,Luxembourg,LUX,3
+121,Macau,MAC,0
+122,Macedonia,MKD,0
+123,Madagascar,MDG,1
+124,Malawi,MWI,2
+125,Malaysia,MYS,2
+126,Maldives,MDV,4
+127,Mali,MLI,3
+128,Malta,MLT,2
+129,Marshall Islands,MHL,0
+130,Mauritania,MRT,1
+131,Mauritius,MUS,2
+132,Mexico,MEX,4
+133,"Micronesia, Federated States of",FSM,0
+134,Moldova,MDA,3
+135,Monaco,MCO,2
+136,Mongolia,MNG,1
+137,Montenegro,MNE,2
+138,Morocco,MAR,3
+139,Mozambique,MOZ,1
+140,Namibia,NAM,1
+141,Nepal,NPL,1
+142,Netherlands,NLD,4
+143,New Caledonia,NCL,0
+144,New Zealand,NZL,3
+145,Nicaragua,NIC,2
+146,Nigeria,NGA,3
+147,Niger,NER,3
+148,Niue,NIU,0
+149,Northern Mariana Islands,MNP,0
+150,Norway,NOR,3
+151,Oman,OMN,3
+152,Pakistan,PAK,3
+153,Palau,PLW,0
+154,Panama,PAN,3
+155,Papua New Guinea,PNG,1
+156,Paraguay,PRY,2
+157,Peru,PER,4
+158,Philippines,PHL,3
+159,Poland,POL,3
+160,Portugal,PRT,3
+161,Puerto Rico,PRI,0
+162,Qatar,QAT,2
+163,Romania,ROU,3
+164,Russia,RUS,4
+165,Rwanda,RWA,1
+166,Saint Kitts and Nevis,KNA,1
+167,Saint Lucia,LCA,1
+168,Saint Martin,MAF,0
+169,Saint Pierre and Miquelon,SPM,0
+170,Saint Vincent and the Grenadines,VCT,1
+171,Samoa,WSM,0
+172,San Marino,SMR,2
+173,Sao Tome and Principe,STP,5
+174,Saudi Arabia,SAU,3
+175,Senegal,SEN,3
+176,Serbia,SRB,3
+177,Seychelles,SYC,1
+178,Sierra Leone,SLE,4
+179,Singapore,SGP,2
+180,Sint Maarten,SXM,0
+181,Slovakia,SVK,3
+182,Slovenia,SVN,3
+183,Solomon Islands,SLB,0
+184,Somalia,SOM,4
+185,South Africa,ZAF,3
+186,South Sudan,SSD,1
+187,Spain,ESP,4
+188,Sri Lanka,LKA,2
+189,Sudan,SDN,3
+190,Suriname,SUR,1
+191,Swaziland,SWZ,0
+192,Sweden,SWE,4
+193,Switzerland,CHE,3
+194,Syria,SYR,1
+195,Taiwan,TWN,0
+196,Tajikistan,TJK,5
+197,Tanzania,TZA,3
+198,Thailand,THA,3
+199,Timor-Leste,TLS,1
+200,Togo,TGO,2
+201,Tonga,TON,0
+202,Trinidad and Tobago,TTO,2
+203,Tunisia,TUN,2
+204,Turkey,TUR,4
+205,Turkmenistan,TKM,0
+206,Tuvalu,TUV,0
+207,Uganda,UGA,1
+208,Ukraine,UKR,3
+209,United Arab Emirates,ARE,3
+210,United Kingdom,GBR,4
+211,United States,USA,4
+212,Uruguay,URY,2
+213,Uzbekistan,UZB,2
+214,Vanuatu,VUT,0
+215,Venezuela,VEN,2
+216,Vietnam,VNM,1
+217,Virgin Islands,VGB,0
+218,West Bank,WBG,0
+219,Yemen,YEM,4
+220,Zambia,ZMB,2
+221,Zimbabwe,ZWE,2
